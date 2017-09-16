@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+}
+.box{
+	width: 456px;
+	background: lightgreen;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 5rem; 
+	border: 6px solid red;
+	color:snow;
+
+}
+.box>a{
+	color: snow;
+	background: black;
+	display:block;
+	transition:3s;
+}
+.box a:hover{
+	font-size: 2rem;
+
+}
+a::selection{
+	background: red
+}

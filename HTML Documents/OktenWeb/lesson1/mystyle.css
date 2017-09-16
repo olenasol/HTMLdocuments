@@ -1,0 +1,80 @@
+body{
+	background-color: #E1FA8E;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-bottom:10px;
+	margin-top:50px;
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 20px;
+}
+.list1{
+	background-color: #D0B365;
+	border: 2px solid #B6A062;
+	border-radius: 5px;
+	width:300px;
+	text-align:left;
+	margin-left:200px;
+	font-style: italic;
+}
+figcaption{
+	font-style:italic;
+}
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+.introd{
+    border: 2px solid red;
+    text-align: center
+}
+.main-cen{
+	border: 1px solid black;
+	border-radius: 50%;  
+    overflow: hidden;
+ 
+}
+.scr-ist{
+	height:1000px;
+	overflow:scroll;
+}
+.cols-white{
+	color: black;
+    background:snow;
+}
+.cols-rose{
+	background:#ffc299;
+	color:#33331a;
+}
+.cols-lightyellow{
+	color:#000033;
+	background:  #ccffb3;
+	border-radius:50px;
+}
+.grad1 {
+    background: linear-gradient(#ff5c33, #ffebe6); 
+}
+.grad2{
+	background:linear-gradient(to left,#ffbf00,#fff2cc);
+}
+.grad3{
+	background: repeating-linear-gradient( snow, #ff99e6 , #ffcccc );
+}
+.lala{
+	width:50%;
+}
+
+.float-l{
+    float: left
+}
+
+.float-r{
+    float: right
+}
+

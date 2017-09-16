@@ -1,0 +1,105 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+}
+body{
+	background:lightblue;
+}
+.box{
+	width: 1000px;
+	background-color: orange;
+	border: 5px solid red;
+	margin: 0 auto;
+	text-align: center;
+	color:snow;
+}
+.header,  .footer{
+	height: 250px
+}
+.header-sub{
+	width:75%;
+	height:50%;
+}
+.cent-block{
+	height:25%
+}
+
+.margin-auto{
+	margin:0 auto;	
+   
+}
+.padd{
+	padding:3%;
+}
+.menu{
+	height:250px;
+
+}
+.left,.center,.right{
+	height:400px;
+}
+.height100{
+	height:100%;
+}
+.height75{
+	height:75%;
+}
+.w-33{
+	width: 33.3%;
+}
+.w-25{
+	width:25%;
+}
+.w-50{
+	width:50%;
+}
+.height50{
+	height:50%;
+}
+.mg-top50{
+	margin-top:50%;
+}
+.mg-top35{
+	margin-top:35%;
+}
+.mg-top25{
+	margin-top:25%;
+}
+.float-l{
+	float:left;
+}
+.bg-black{
+	background: black;
+}
+.bg-blue{
+	background: blue;
+}
+.bg-yellow{
+	background: yellow;
+}
+.bg-pink{
+	background: pink;
+}
+.bg-orange{
+	background: orange;
+}
+.bg-red{
+	background: red;
+}
+.bg-white{
+	background:white;
+}
+.bg-green{
+	background:green;
+}
+.clearfix{
+	clear:both;
+}
+.padding2s{
+	padding-left:40px;
+	padding-right:40px;
+}
+.bbox{
+	box-sizing: border-box;   
+}

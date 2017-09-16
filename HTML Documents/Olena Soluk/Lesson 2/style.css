@@ -1,0 +1,18 @@
+h2{
+	background: orange;
+}
+#winter{
+	background: snow;
+	color:black;
+}
+.spring{
+	background: violet;
+	font-size: 5rem;
+	font-family: Arial;
+	font-style: italic;
+	text-align: center;
+}
+.summer{
+	background: black;
+	color:red;
+}
